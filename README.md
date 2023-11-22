@@ -33,8 +33,10 @@ This project aims to implement and compare multiple algorithms designed to trans
 
 Coding project involving the re-implementation of matplotlib.pyplot and networkx libraries, with the ability to display graphs using planar embedding. Key features include shape drawing, function plotting, subplots, text, auto scaling, and graph visualization.
 <p align="center">
-	<a href="https://github.com/Micau183/plot_python"><img src="https://i.imgur.com/ao0JzHl.png")" width="800"></a>
+    <a href="https://github.com/Micau183/plot_python"><img src="https://i.imgur.com/ao0JzHl.png" width="424"></a>
+    <a href="https://github.com/Micau183/plot_python"><img src="https://i.imgur.com/A5yH7e0.png" width="400"></a>
 </p>
+
 
 <br>
 
